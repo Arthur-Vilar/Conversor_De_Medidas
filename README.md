@@ -1,3 +1,3 @@
 # Conversor_De_Medidas
 
-Fiz um conversor de medidas em python, onde você pode converter entre medidas de massa, capacidade e comprimento. Ele conta com tratamento de erros, menu interativo e muito mais. Vai lá dar uma conferida!
+Este projeto permite converter facilmente entre unidades de massa, capacidade e comprimento. O programa conta com menu interativo, validação de entrada e tratamento de erros, garantindo que a experiência seja intuitiva e confiável.
